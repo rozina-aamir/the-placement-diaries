@@ -4,5 +4,6 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 3: Being on the Verge of Death, Hallucinating, and Finally Making a Start on Things](week03.md) - **1st October 2021**
 - [Week 2: Market Research and Analysis Paralysis](week02.md) - **24th September 2021**
 - [Week 1: Welcome Week](week01.md) - **17th September 2021**
