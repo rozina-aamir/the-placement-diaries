@@ -4,4 +4,5 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 2: Market Research and Analysis Paralysis](week02.md) - **24th September 2021**
 - [Week 1: Welcome Week](week01.md) - **17th September 2021**
