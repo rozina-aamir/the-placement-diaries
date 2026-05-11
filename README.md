@@ -4,6 +4,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 8: A Room of One's Own, Thinking About How Much I Should Spend in Order to Start the Business, and Still Being in a Dilemma](week08.md) - **5th November 2021**
 - [Week 7: Half Term](week07.md) - **29th October 2021**
 - [Week 6: Having Two Business Ideas, a Dilemma, and Half a Pitch](week06.md) - **22nd October 2021**
 - [Week 5: Going With The Flow, Using LinkedIn, Attending the First Workshop, and Actually Putting Together a Business Plan](week05.md) - **15th October 2022**
