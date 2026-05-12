@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 10: A Quiet Week and More Market Research](week10.md) - **19th November 2021**
 - [Week 9: Business Bootcamp](week09.md) - **12th November 2021**
 - [Week 8: A Room of One's Own, Thinking About How Much I Should Spend in Order to Start the Business, and Still Being in a Dilemma](week08.md) - **5th November 2021**
 - [Week 7: Half Term](week07.md) - **29th October 2021**
