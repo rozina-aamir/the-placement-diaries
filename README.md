@@ -2,6 +2,8 @@
 
 This is a reflective and thoughtful process on the realities of self employment and freelancing during my University placement year.
 
+**PLEASE NOTE:** The opinions and ways of thinking that I expressed when I was 20 years old in these entries may not fully reflect my current views and ways of thinking.
+
 ## Weeks
 
 - [Week 8: A Room of One's Own, Thinking About How Much I Should Spend in Order to Start the Business, and Still Being in a Dilemma](week08.md) - **5th November 2021**
