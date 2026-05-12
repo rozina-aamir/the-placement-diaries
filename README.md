@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 15: A Fairly Complex Puzzle, Going to the Theatre, and AI Generated Christmas Films](week15.md) - **24th December 2021**
 - [Week 14: The End of Term](week14.md) - **17th December 2021**
 - [Week 13: Waiting for a Break, and Getting the Business Plan Done](week13.md) - **10th December 2021**
 - [Week 12: Cold 2 Electric Spookaloo, an Unattended Social Event, and Doing Lots of Research](week12.md) - **3rd December 2021**
