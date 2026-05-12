@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 12: Cold 2 Electric Spookaloo, an Unattended Social Event, and Doing Lots of Research](week12.md) - **3rd December 2022**
 - [Week 11: Going Back to the Original Idea](week11.md) - **26th November 2021**
 - [Week 10: A Quiet Week and More Market Research](week10.md) - **19th November 2021**
 - [Week 9: Business Bootcamp](week09.md) - **12th November 2021**
