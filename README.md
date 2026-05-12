@@ -2,10 +2,11 @@
 
 This is a reflective and thoughtful process on the realities of self employment and freelancing during my University placement year.
 
-**PLEASE NOTE:** The opinions and ways of thinking that I expressed in these entries when I was 20 years old may not fully reflect my current views and ways of thinking.
+**PLEASE NOTE:** The opinions and ways of thinking that I expressed in these entries when I was 20 years old may no longer fully reflect my current views and ways of thinking.
 
 ## Weeks
 
+- [Week 9: Business Bootcamp](week09.md) - **12th November 2021**
 - [Week 8: A Room of One's Own, Thinking About How Much I Should Spend in Order to Start the Business, and Still Being in a Dilemma](week08.md) - **5th November 2021**
 - [Week 7: Half Term](week07.md) - **29th October 2021**
 - [Week 6: Having Two Business Ideas, a Dilemma, and Half a Pitch](week06.md) - **22nd October 2021**
