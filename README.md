@@ -2,7 +2,7 @@
 
 This is a reflective and thoughtful process on the realities of self employment and freelancing during my University placement year.
 
-**PLEASE NOTE:** The opinions and ways of thinking that I expressed when I was 20 years old in these entries may not fully reflect my current views and ways of thinking.
+**PLEASE NOTE:** The opinions and ways of thinking that I expressed in these entries when I was 20 years old may not fully reflect my current views and ways of thinking.
 
 ## Weeks
 
