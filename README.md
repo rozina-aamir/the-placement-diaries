@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 17: Having an Anti Capitalist Mindset](week17.md) - **7th January 2022**
 - [Week 16: A Year in Review](week16.md) - **31st December 2021**
 - [Week 15: A Fairly Complex Puzzle, Going to the Theatre, and AI Generated Christmas Films](week15.md) - **24th December 2021**
 - [Week 14: The End of Term](week14.md) - **17th December 2021**
