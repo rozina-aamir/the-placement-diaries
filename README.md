@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 24: Setting Up Freelance Profiles, Finally Having the Right Tools, and Getting My First Potential Client](week24.md) - **25th February 2022**
 - [Week 23: On Being Single, Refusing to Be a Content Creator, and Going Old School Through No Choice of My Own](week23.md) - **18th February 2022**
 - [Week 22: Becoming a Freelancer, Finally Filling Out the Grant, and Getting More Positive Visions](week22.md) - **11th February 2022**
 - [Week 21: No More NFTs, Getting Really Noticed on LinkedIn, and Thinking About Becoming a Writer](week21.md) - **4th February 2022**
