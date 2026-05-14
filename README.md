@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 21: No More NFTs, Getting Really Noticed on LinkedIn, and Thinking About Becoming a Writer](week21.md) - **4th February 2022**
 - [Week 20: Getting Back on Instagram, Vision Boards, and The Labyrinth of the Mind](week20.md) - **28th January 2022**
 - [Week 19: Redirecting (again), Making a Start on Creating NFTs, and Exploring My Options](week19.md) - **21st January 2022**
 - [Week 18: Getting Back Into It, Slowly Unlearning Hustle Culture, and Making a Start on Contributing to Open Source Software](week18.md) - **14th January 2022**
