@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 27: Rewriting the Business Plan, and Attending a Social Media Workshop](week27.md) - **18th March 2022**
 - [Week 26: Spring, Continuing on Doing the Work, and Making a Start on Creating a Professional Website](week26.md) - **11th March 2022**
 - [Week 25: Doing the Work](week25.md) - **4th March 2022**
 - [Week 24: Setting Up Freelance Profiles, Finally Having the Right Tools, and Getting My First Potential Client](week24.md) - **25th February 2022**
