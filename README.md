@@ -6,7 +6,8 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
-- [Week 25: Week 25 - Doing the Work](week25.md) - **4th March 2022**
+- [Week 26: Spring, Continuing on Doing the Work, and Making a Start on Creating a Professional Website](week26.md) - **11th March 2022**
+- [Week 25: Doing the Work](week25.md) - **4th March 2022**
 - [Week 24: Setting Up Freelance Profiles, Finally Having the Right Tools, and Getting My First Potential Client](week24.md) - **25th February 2022**
 - [Week 23: On Being Single, Refusing to Be a Content Creator, and Going Old School Through No Choice of My Own](week23.md) - **18th February 2022**
 - [Week 22: Becoming a Freelancer, Finally Filling Out the Grant, and Getting More Positive Visions](week22.md) - **11th February 2022**
