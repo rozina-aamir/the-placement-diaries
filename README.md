@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 36: Void Year](week36.md) - **20th May 2022**
 - [Week 35: Genre Defying Music, Editorial Illustrations, and Creating the Final Drafts](week35.md) - **13th May 2022**
 - [Week 34: Being in Person](week34.md) - **6th May 2022**
 - [Week 33: Apartment Tours, Thinking About What Could Have Been, and Making a Start on the Written Reflective Report](week33.md) - **29th April 2022**
