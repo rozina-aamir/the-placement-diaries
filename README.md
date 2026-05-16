@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 31: Looking for Things, Plain Text Files, and Writing for a Friend](week31.md) - **15th April 2022**
 - [Week 30: Personal Branding, Voice Notes, and Still Having Doubts About Going Freelance](week30.md) - **8th April 2022**
 - [Week 29: Having a Niggling Feeling About Becoming a Freelancer](week29.md) - **1st April 2022**
 - [Week 28: Pitching Again, Advertising Commissions, and Deciding to Come Up With a Social Media Strategy](week28.md) - **25th March 2022**
