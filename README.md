@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 39: The End](week39.md) - **9th June 2022**
 - [Week 38: Neither Here Nor There](week38.md) - **3rd June 2022**
 - [Week 37: Notes on the Metaverse](week37.md) - **27th May 2022**
 - [Week 36: Void Year](week36.md) - **20th May 2022**
