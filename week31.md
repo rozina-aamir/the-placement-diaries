@@ -1,0 +1,12 @@
+## The Placement Diaries: Week 31 - Looking for Things, Plain Text Files, and Writing for a Friend
+*15th April 2022*
+
+This week has mainly been a quiet week, with me looking for things, mainly part time jobs and apartments. The part time job hunt is something that I'm doing now so that I can (hopefully) work during the summer, and gain that all important experience, as well as having something to do in order to fill those long summer days ahead. However, it's a frustrating process, so I need to at least give it some time, hopefully landing a decent retail job, since that's all I can get as a student, and that's if I'm lucky.
+
+Apartment hunting has also been on my radar since I need somewhere to live during my final year, since commuting won't cut it at all, unless I want to run on less than 5 hours of sleep, which is not a good look to have, although trying to find a decent apartment that's affordable and within walking distance to the University is an extreme sport. The easy option would be to live in halls again, but I've been there and done that, now knowing that it's something that I'd rather not do, since living with strangers who become acquaintances and strangers again isn't cracked up to be, so just living in an apartment/house would be the better option, so that I can crack down and just get on with doing my final year.
+
+I've been toying around with the idea of using plain text files (mainly using a very minimal text editor where I don't have to mess around with anything, just focusing on the writing itself) because using full on word processors has recently become a bit tiring since they're now so full of bloat that I try not to bother with them anymore, if and when I can. It's a slow process, but again, I'll get there, and I'll focus on just using the tools instead of reading and thinking too much about using them.
+
+This week, a friend offered me the chance to write an article for their magazine, which I gladly took up since it's good to get my work out there, knowing that it's got a purpose, rather than just posting things on social media and hoping that someone notices, which most of the time, they don't. So, I guess I've got another client, although that word just seems a bit stuffy and formal.
+
+So, that's been my week. A bit quiet, and a bit unremarkable, but at the end of the day, we all need a bit of downtime, and there's only so much that I can ramble on about the same things over and over again.
