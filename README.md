@@ -6,6 +6,7 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 ## Weeks
 
+- [Week 33: Apartment Tours, Thinking About What Could Have Been, and Making a Start on the Written Reflective Report](week33.md) - **29th April 2022**
 - [Week 32: What If I…?](week32.md) - **22nd April 2022**
 - [Week 31: Looking for Things, Plain Text Files, and Writing for a Friend](week31.md) - **15th April 2022**
 - [Week 30: Personal Branding, Voice Notes, and Still Having Doubts About Going Freelance](week30.md) - **8th April 2022**
