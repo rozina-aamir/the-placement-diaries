@@ -4,6 +4,8 @@ This is a reflective and thoughtful process on the realities of self employment 
 
 **PLEASE NOTE:** The opinions and ways of thinking that I expressed in these entries when I was 20 years old may no longer fully reflect my current views and ways of thinking.
 
+Visit [the rest of my site](https://rozina-aamir.github.io/tpd)
+
 ## Weeks
 
 - [Week 39: The End](week39.md) - **9th June 2022**
